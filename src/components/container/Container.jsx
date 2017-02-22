@@ -1,14 +1,15 @@
-import React, { Component } from 'react';
-import './container.css';
-import Velibs from './veliblist/Velibs'
-import Map from './map/Map'
+import React, { Component } from "react";
+import "./container.css";
+
+import SearchForm from "./veliblist/SearchForm";
+import UlVelibs from "./veliblist/UlVelibs";
 
 class Container extends Component {
   render() {
     return (
       <div className="container">
-       	<Velibs />
-       	<Map />
+        <SearchForm />
+        <UlVelibs />
       </div>
     );
   }
