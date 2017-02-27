@@ -6,5 +6,5 @@ Ce projet a été créé avec [Create React App](https://github.com/facebookincu
 
 
 Pour réaliser ce projet j'ai utilisé:
-*L'api de Vélibrar
-*React Materialize
+* L'api de Vélibrar
+* React Materialize
